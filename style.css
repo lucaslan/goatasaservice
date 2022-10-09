@@ -87,3 +87,6 @@ nav ul li a:hover::after{
 .p{
     color: olive;
 }
+html{
+    scroll-behavior: smooth;
+}
